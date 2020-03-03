@@ -11,6 +11,6 @@ as stated above , the main purpose is to provide simple examples for git trainin
 
 this is a simple web project, depleoyment
 ### How to contribute
-
+please for this reporsity and issue pull requtest
 #####Copyright
 2020 git.training
